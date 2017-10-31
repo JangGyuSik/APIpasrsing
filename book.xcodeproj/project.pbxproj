@@ -14,6 +14,7 @@
 		1462D98F1FA809D3002090E7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1462D98D1FA809D3002090E7 /* LaunchScreen.storyboard */; };
 		1462D99A1FA809D3002090E7 /* bookTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1462D9991FA809D3002090E7 /* bookTests.swift */; };
 		1462D9A51FA809D3002090E7 /* bookUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1462D9A41FA809D3002090E7 /* bookUITests.swift */; };
+		1462D9B31FA80A90002090E7 /* BookListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1462D9B21FA80A90002090E7 /* BookListTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		1462D9A01FA809D3002090E7 /* bookUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = bookUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1462D9A41FA809D3002090E7 /* bookUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bookUITests.swift; sourceTree = "<group>"; };
 		1462D9A61FA809D3002090E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1462D9B21FA80A90002090E7 /* BookListTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookListTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				1462D9841FA809D3002090E7 /* AppDelegate.swift */,
 				1462D9861FA809D3002090E7 /* ViewController.swift */,
 				1462D9881FA809D3002090E7 /* Main.storyboard */,
+				1462D9B21FA80A90002090E7 /* BookListTableViewController.swift */,
 				1462D98B1FA809D3002090E7 /* Assets.xcassets */,
 				1462D98D1FA809D3002090E7 /* LaunchScreen.storyboard */,
 				1462D9901FA809D3002090E7 /* Info.plist */,
@@ -261,6 +264,7 @@
 			files = (
 				1462D9871FA809D3002090E7 /* ViewController.swift in Sources */,
 				1462D9851FA809D3002090E7 /* AppDelegate.swift in Sources */,
+				1462D9B31FA80A90002090E7 /* BookListTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
